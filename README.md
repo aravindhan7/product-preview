@@ -17,7 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [https://github.com/aravindhan7/product-preview]
-- Live Site URL: [https://aravindhan7.github.io/result-summary-frontend-mentor-challenge]
+- Live Site URL: [https://aravindhan7.github.io/product-preview/]
 
 
 ## Author
